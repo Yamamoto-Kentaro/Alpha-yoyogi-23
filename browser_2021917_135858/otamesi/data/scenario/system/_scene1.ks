@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/temae.jpg"  ]
+[preload  storage="./data/bgimage/dennsya.jpg"  ]
+[preload  storage="./data/fgimage/default/nazo1.png"  ]
+[preload  storage="./data/bgimage/kuria.jpg"  ]
+[return]
